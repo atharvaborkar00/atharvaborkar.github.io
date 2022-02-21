@@ -271,7 +271,7 @@ img {
   line-height: 5rem;
 }
 
-.dynamic-txts li span::after {
+/*.dynamic-txts li span::after {
   content: "";
   position: absolute;
   left: 3rem;
@@ -290,7 +290,7 @@ img {
   100% {
     left: 0;
   }
-}
+}*/
 /*BUTTONS*/
 .button {
   display: inline-block;
